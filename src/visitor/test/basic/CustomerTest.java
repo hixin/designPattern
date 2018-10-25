@@ -1,4 +1,4 @@
-package visitor.basic.test.basic;
+package visitor.test.basic;
 
 import visitor.basic.Customer;
 import visitor.basic.PersonalCustomer;
