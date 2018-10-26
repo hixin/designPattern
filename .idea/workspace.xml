@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce2be27-fbe7-4366-afb1-44e4df22fcaf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor/test/basic/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/test/basic/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,87 +18,64 @@
     <session id="141710845">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="59" />
+          <entry key="java" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1646" />
+          <entry key="java" value="2808" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1646" />
+          <entry key="JAVA" value="2808" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/basic/FeeRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="33" selection-start-line="27" selection-start-column="7" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/Handler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bridge/optimize/MessageImplementor.java">
+        <entry file="file://$PROJECT_DIR$/src/test/ChainOfResponsibility/optimize/HandlerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bridge/basic/UrgencyMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bridge/basic/Message.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bridge/basic/CommonMessageEmail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="80" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bridge/optimize/MessageSMS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/visitor/test/optimize/CustomerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="34" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="35" selection-end-column="34" />
+            <state relative-caret-position="208">
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,14 +84,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bridge/optimize/SpecialUrgencyMessage.java">
+        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/ProjectManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/DepManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/GeneralManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/ChainOfResponsibility/basic/FeeRequestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="39" column="43" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="39" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -134,12 +133,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -147,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/bridge/optimize/AbstractMessageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="225">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -210,6 +203,13 @@
         <option value="$PROJECT_DIR$/src/bridge/optimize/SpecialUrgencyMessage.java" />
         <option value="$PROJECT_DIR$/src/bridge/optimize/MessageMobile.java" />
         <option value="$PROJECT_DIR$/src/test/bridge/optimize/AbstractMessageTest.java" />
+        <option value="$PROJECT_DIR$/src/ChainOfResponsibility/basic/FeeRequest.java" />
+        <option value="$PROJECT_DIR$/src/test/ChainOfResponsibility/basic/FeeRequestTest.java" />
+        <option value="$PROJECT_DIR$/src/ChainOfResponsibility/optimize/Handler.java" />
+        <option value="$PROJECT_DIR$/src/ChainOfResponsibility/optimize/ProjectManager.java" />
+        <option value="$PROJECT_DIR$/src/ChainOfResponsibility/optimize/DepManager.java" />
+        <option value="$PROJECT_DIR$/src/ChainOfResponsibility/optimize/GeneralManager.java" />
+        <option value="$PROJECT_DIR$/src/test/ChainOfResponsibility/optimize/HandlerTest.java" />
       </list>
     </option>
   </component>
@@ -233,7 +233,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,34 +254,56 @@
               <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
               <item name="optimize" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
               <item name="optimize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
@@ -296,6 +317,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -305,7 +327,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540436954518" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540522891912" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -340,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AbstractMessageTest.testSendMessage">
+  <component name="RunManager" selected="JUnit.HandlerTest.testHandleFeeRequest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="designPattern1" />
@@ -367,32 +389,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonMessageEmailTest.testSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FeeRequestTest.testRequestToProjectManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.bridge.basic.*" />
+          <option name="PATTERN" value="test.ChainOfResponsibility.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.bridge.basic" />
-      <option name="MAIN_CLASS_NAME" value="test.bridge.basic.CommonMessageEmailTest" />
-      <option name="METHOD_NAME" value="testSend" />
+      <option name="PACKAGE_NAME" value="test.ChainOfResponsibility.basic" />
+      <option name="MAIN_CLASS_NAME" value="test.ChainOfResponsibility.basic.FeeRequestTest" />
+      <option name="METHOD_NAME" value="testRequestToProjectManager" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HandlerTest.testHandleFeeRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="visitor.test.optimize.*" />
+          <option name="PATTERN" value="test.ChainOfResponsibility.optimize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="visitor.test.optimize" />
-      <option name="MAIN_CLASS_NAME" value="visitor.test.optimize.CustomerTest" />
+      <option name="PACKAGE_NAME" value="test.ChainOfResponsibility.optimize" />
+      <option name="MAIN_CLASS_NAME" value="test.ChainOfResponsibility.optimize.HandlerTest" />
+      <option name="METHOD_NAME" value="testHandleFeeRequest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -415,18 +439,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.CustomerTest (1)" />
       <item itemvalue="JUnit.UrgencyMessageSMSTest.testSend" />
-      <item itemvalue="JUnit.CommonMessageEmailTest.testSend" />
       <item itemvalue="JUnit.AbstractMessageTest.testSendMessage" />
+      <item itemvalue="JUnit.FeeRequestTest.testRequestToProjectManager" />
+      <item itemvalue="JUnit.HandlerTest.testHandleFeeRequest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AbstractMessageTest.testSendMessage" />
+        <item itemvalue="JUnit.HandlerTest.testHandleFeeRequest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FeeRequestTest.testRequestToProjectManager" />
+        <item itemvalue="JUnit.AbstractMessageTest.testSendMessage" />
         <item itemvalue="JUnit.UrgencyMessageSMSTest.testSend" />
-        <item itemvalue="JUnit.CommonMessageEmailTest.testSend" />
-        <item itemvalue="JUnit.CustomerTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -442,23 +466,12 @@
       <updated>1540344445370</updated>
       <workItem from="1540344448482" duration="418000" />
       <workItem from="1540344927154" duration="7890000" />
-      <workItem from="1540429890186" duration="6530000" />
+      <workItem from="1540429890186" duration="7034000" />
+      <workItem from="1540517865359" duration="4722000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CustomerTest_testServiceRequest - 2018.10.24 at 11h 37m 09s.xml">
-      <configuration name="CustomerTest.testServiceRequest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomerTest - 2018.10.24 at 11h 40m 50s.xml">
-      <configuration name="CustomerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomerTest_(1) - 2018.10.24 at 12h 04m 46s.xml">
-      <configuration name="CustomerTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomerTest_(1) - 2018.10.24 at 12h 10m 29s.xml">
-      <configuration name="CustomerTest (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CustomerTest_(1) - 2018.10.24 at 12h 14m 51s.xml">
       <configuration name="CustomerTest (1)" configurationId="JUnit" />
     </history-entry>
@@ -477,15 +490,36 @@
     <history-entry file="AbstractMessageTest_testSendMessage - 2018.10.25 at 10h 26m 40s.xml">
       <configuration name="AbstractMessageTest.testSendMessage" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AbstractMessageTest_testSendMessage - 2018.10.25 at 11h 09m 15s.xml">
+      <configuration name="AbstractMessageTest.testSendMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FeeRequestTest_testRequestToProjectManager - 2018.10.26 at 09h 55m 00s.xml">
+      <configuration name="FeeRequestTest.testRequestToProjectManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FeeRequestTest_testRequestToProjectManager - 2018.10.26 at 09h 56m 42s.xml">
+      <configuration name="FeeRequestTest.testRequestToProjectManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HandlerTest_testHandleFeeRequest - 2018.10.26 at 10h 31m 56s.xml">
+      <configuration name="HandlerTest.testHandleFeeRequest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15946000" />
+    <option name="totallyTimeSpent" value="21172000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,16 +528,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.1967742" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5129032" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32975295" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32903227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -539,15 +573,10 @@
     <entry file="file://$PROJECT_DIR$/src/visitor/basic/optimize/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/visitor/basic/test/optimize/CustomerTest.java" />
     <entry file="file://$PROJECT_DIR$/src/visitor/basic/test/basic/PersonalCustomerTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/visitor/test/basic/CustomerTest.java" />
     <entry file="file://$PROJECT_DIR$/src/visitor/basic/PersonalCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="63" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="63" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,17 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -618,26 +636,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridge/basic/MessageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/basic/MessageTest.java" />
     <entry file="file://$PROJECT_DIR$/src/visitor/test/basic/CustomerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/bridge/basic/CommonMessageSMSTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/bridge/basic/CommonMessageSMSTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/bridge/basic/CommonMessageEmailTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -656,10 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,10 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -703,11 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,34 +709,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="34" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="35" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridge/optimize/SpecialUrgencyMessage.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/bridge/optimize/AbstractMessageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/bridge/optimize/MessageImplementor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridge/optimize/MessageMobile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="51" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -756,7 +736,7 @@
     <entry file="file://$PROJECT_DIR$/src/bridge/basic/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="52" />
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -774,23 +754,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/optimize/SpecialUrgencyMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/optimize/MessageMobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="51" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bridge/optimize/AbstractMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/bridge/optimize/AbstractMessageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/basic/FeeRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="33" selection-start-line="27" selection-start-column="7" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/ProjectManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ChainOfResponsibility/basic/FeeRequestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="39" column="43" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/DepManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/GeneralManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/optimize/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridge/optimize/MessageImplementor.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ChainOfResponsibility/optimize/HandlerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="208">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
