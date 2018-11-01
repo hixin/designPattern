@@ -18,31 +18,36 @@
     <session id="141710845">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="97" />
+          <entry key="java" value="103" />
+          <entry key="tld" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="97" />
+          <entry key="JAVA" value="103" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5265" />
+          <entry key="java" value="7391" />
+          <entry key="xml" value="223" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5265" />
+          <entry key="JAVA" value="7391" />
+          <entry key="XML" value="223" />
         </counts>
       </usages-collector>
     </session>
@@ -50,54 +55,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/decorator/optimize/Component.java">
+        <entry file="file://$PROJECT_DIR$/src/test/decorator/optimize/ComponentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/decorator/optimize/Decorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" lean-forward="true" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="544">
+              <caret line="48" column="52" selection-start-line="31" selection-start-column="5" selection-end-line="48" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/decorator/optimize/ComponentTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter/basic/ReadAppXml.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="48" column="52" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="48" selection-end-column="52" />
+            <state relative-caret-position="270">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/decorator/optimize/ConcreteComponent.java">
+        <entry file="file://$PROJECT_DIR$/src/test/Interpreter/basic/ReadAppXmlTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter/spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter/demo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/ReadXmlExpression.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="1" />
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1085#1086#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#1170#1171#0" expanded="true" />
+                <element signature="e#1212#1213#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/decorator/optimize/GroupPrizeDecorator.java">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/XmlUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,12 +144,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/decorator/optimize/MonthPrizeDecorator.java">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/ElementExpression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="675">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,6 +177,7 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="Interface" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -152,14 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/optimize/Customer.java" />
-        <option value="$PROJECT_DIR$/src/basic/Customer.java" />
-        <option value="$PROJECT_DIR$/src/basic/PersonalCustomer.java" />
-        <option value="$PROJECT_DIR$/src/basic/EnterpriseCustomer.java" />
-        <option value="$PROJECT_DIR$/src/test/basic/CustomerTest.java" />
-        <option value="$PROJECT_DIR$/src/visitor/test/basic/CustomerTest.java" />
-        <option value="$PROJECT_DIR$/src/visitor/optimize/PersonalCustomer.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/visitor/test/optimize/CustomerTest.java" />
         <option value="$PROJECT_DIR$/src/visitor/optimize/Customer.java" />
         <option value="$PROJECT_DIR$/src/visitor/optimize/ServiceRequestVisitor.java" />
@@ -203,6 +236,14 @@
         <option value="$PROJECT_DIR$/src/decorator/optimize/Decorator.java" />
         <option value="$PROJECT_DIR$/src/decorator/optimize/GroupPrizeDecorator.java" />
         <option value="$PROJECT_DIR$/src/decorator/optimize/Component.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter/demo.xml" />
+        <option value="$PROJECT_DIR$/src/Interpreter/optimize/ReadXmlExpression.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter/optimize/XmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter/optimize/Context.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter/optimize/ElementExpression.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter/spring.xml" />
+        <option value="$PROJECT_DIR$/src/test/Interpreter/basic/ReadAppXmlTest.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter/basic/ReadAppXml.java" />
       </list>
     </option>
   </component>
@@ -222,69 +263,13 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="optimize" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="visitor" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="designPattern1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -298,6 +283,45 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designPattern1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="designPattern1" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="designPattern1" type="616d4139:PackageViewModuleNode" />
+              <item name="Interpreter" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="designPattern1" type="616d4139:PackageViewModuleNode" />
+              <item name="Interpreter" type="1f31426a:PackageElementNode" />
+              <item name="basic" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="designPattern1" type="616d4139:PackageViewModuleNode" />
+              <item name="Interpreter" type="1f31426a:PackageElementNode" />
+              <item name="optimize" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="designPattern1" type="616d4139:PackageViewModuleNode" />
+              <item name="test" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="designPattern1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="designPattern1" type="616d4139:PackageViewModuleNode" />
+              <item name="test" type="1f31426a:PackageElementNode" />
+              <item name="Interpreter.basic" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,7 +330,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540794592947" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541043717315" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -326,6 +350,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Interpreter" />
       <recent name="$PROJECT_DIR$/src/optimize" />
     </key>
   </component>
@@ -341,7 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ComponentTest.testCalcPrize">
+  <component name="RunManager" selected="JUnit.ReadAppXmlTest.testRead">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="designPattern1" />
@@ -363,22 +388,6 @@
       <option name="PACKAGE_NAME" value="test.decorator.optimize" />
       <option name="MAIN_CLASS_NAME" value="test.decorator.optimize.ComponentTest" />
       <option name="METHOD_NAME" value="testCalcPrize" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FeeRequestTest.testRequestToProjectManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.ChainOfResponsibility.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ChainOfResponsibility.basic" />
-      <option name="MAIN_CLASS_NAME" value="test.ChainOfResponsibility.basic.FeeRequestTest" />
-      <option name="METHOD_NAME" value="testRequestToProjectManager" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -416,20 +425,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReadAppXmlTest.testRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Interpreter.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Interpreter.basic" />
+      <option name="MAIN_CLASS_NAME" value="test.Interpreter.basic.ReadAppXmlTest" />
+      <option name="METHOD_NAME" value="testRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.FeeRequestTest.testRequestToProjectManager" />
       <item itemvalue="JUnit.HandlerTest.testHandleFeeRequest" />
       <item itemvalue="JUnit.PrizeTest.testCalcPrize" />
       <item itemvalue="JUnit.ComponentTest.testCalcPrize" />
+      <item itemvalue="JUnit.ReadAppXmlTest.testRead" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReadAppXmlTest.testRead" />
         <item itemvalue="JUnit.ComponentTest.testCalcPrize" />
         <item itemvalue="JUnit.PrizeTest.testCalcPrize" />
         <item itemvalue="JUnit.HandlerTest.testHandleFeeRequest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.FeeRequestTest.testRequestToProjectManager" />
       </list>
     </recent_temporary>
   </component>
@@ -447,17 +472,12 @@
       <workItem from="1540344927154" duration="7890000" />
       <workItem from="1540429890186" duration="7034000" />
       <workItem from="1540517865359" duration="6633000" />
-      <workItem from="1540777345034" duration="13699000" />
+      <workItem from="1540777345034" duration="15554000" />
+      <workItem from="1541036288123" duration="6571000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AbstractMessageTest_testSendMessage - 2018.10.25 at 10h 23m 54s.xml">
-      <configuration name="AbstractMessageTest.testSendMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AbstractMessageTest_testSendMessage - 2018.10.25 at 10h 26m 40s.xml">
-      <configuration name="AbstractMessageTest.testSendMessage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AbstractMessageTest_testSendMessage - 2018.10.25 at 11h 09m 15s.xml">
       <configuration name="AbstractMessageTest.testSendMessage" configurationId="JUnit" />
     </history-entry>
@@ -482,9 +502,15 @@
     <history-entry file="ComponentTest_testCalcPrize - 2018.10.29 at 12h 26m 33s.xml">
       <configuration name="ComponentTest.testCalcPrize" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReadAppXmlTest_testRead - 2018.11.01 at 11h 39m 52s.xml">
+      <configuration name="ReadAppXmlTest.testRead" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReadAppXmlTest_testRead - 2018.11.01 at 11h 41m 12s.xml">
+      <configuration name="ReadAppXmlTest.testRead" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36782000" />
+    <option name="totallyTimeSpent" value="45208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,7 +525,7 @@
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26307365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,14 +534,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.03763441" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3419355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5129032" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33010754" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32903227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -540,26 +566,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/visitor/basic/optimize/PersonalCustomer.java" />
-    <entry file="file://$PROJECT_DIR$/src/visitor/basic/optimize/Customer.java" />
-    <entry file="file://$PROJECT_DIR$/src/visitor/basic/test/optimize/CustomerTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/visitor/basic/test/basic/PersonalCustomerTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/bridge/basic/MessageTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/visitor/test/basic/CustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/bridge/basic/CommonMessageSMSTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/bridge/basic/CommonMessageEmailTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/bridge/basic/UrgencyMessageSMSTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -792,9 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="34" column="23" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -833,10 +836,31 @@
     <entry file="file://$PROJECT_DIR$/src/decorator/optimize/Decorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="13" lean-forward="true" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
+          <caret line="13" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="e#294#295#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/optimize/ConcreteComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/optimize/GroupPrizeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -862,31 +886,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorator/optimize/GroupPrizeDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/decorator/optimize/ComponentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="544">
+          <caret line="48" column="52" selection-start-line="31" selection-start-column="5" selection-end-line="48" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interpreter/demo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/ReadXmlExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/XmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/decorator/optimize/ConcreteComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/ElementExpression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="675">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
           <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/decorator/optimize/ComponentTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Interpreter/optimize/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="48" column="52" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="48" selection-end-column="52" />
+        <state relative-caret-position="120">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+            <element signature="e#1212#1213#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interpreter/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Interpreter/basic/ReadAppXmlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interpreter/basic/ReadAppXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
